@@ -1,1 +1,1 @@
-# Risanje_fraktalov
+# Risanje fraktalov
